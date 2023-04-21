@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ripe</h1>
 <h3 align="center">🦝</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ripe-glv" alt="ripe-glv" /></a> </p>Cancel changes
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ripe-glv" alt="ripe-glv" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
