@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d92,100:00b4d8&height=200&section=header&text=ripe&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20%26%20Coffee%20☕&descAlignY=58&animation=fadeIn&fontStyle=bold" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d92,100:00b4d8&height=200&section=header&text=ripe&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20%26%20Coffee%20%E2%98%95&descAlignY=58&animation=fadeIn" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there!+I'm+Filipe+%F0%9F%91%8B;Full+Stack+Developer+%7C+Builder+of+things;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ripe-glv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_color=1e3a5f"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ripe-glv&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_color=1e3a5f"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripe-glv&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_color=1e3a5f"/>
 
 </div>
