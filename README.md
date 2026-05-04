@@ -58,8 +58,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ripe-glv&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_color=1e3a5f"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripe-glv&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_color=1e3a5f"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ripe-glv&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_color=1e3a5f"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripe-glv&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_color=1e3a5f"/>
 
 </div>
 
